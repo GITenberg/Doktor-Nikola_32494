@@ -1,0 +1,41 @@
+_repo: Doktor-Nikola_32494
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Magnussen, Johs. (Johannes)
+    aliases:
+    - Magnussen, Johanes
+    - Magnussen, Johannes Julius Claudi
+    - Magnussen, Johannes
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '35876'
+    url: http://www.gutenberg.org/2009/agents/35876
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boothby, Guy
+    alias: Boothby, Guy Newell
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '3587'
+    url: http://www.gutenberg.org/2009/agents/3587
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
+description: ''
+gutenberg_issued: '2010-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32494'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Occultism -- Fiction'
+- !lcsh 'Australian fiction -- Translations into Danish'
+title: Doktor Nikola
+url: http://www.gutenberg.org/ebooks/32494
